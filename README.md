@@ -63,12 +63,9 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-<!-- Authors -->
-## Authors
 
-Harvey Pham 
-[@Linkedin](https://www.linkedin.com/in/harveyphm/) 
-Email: qhuy.phm@gmail.com
+
+
 
 
 
